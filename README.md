@@ -4,3 +4,4 @@
 | 标题   |      说明      |  链接 |
 |----------|:-------------:|------:|
 | Generate images by VAE |  用简单的VAE模型生成书写数字图片 | <a href="./basic_vae.ipynb">link</a> |
+| Generate images by GAN | GAM模型生成图片 | <a href="./Basic_code/Basic_GAN.ipynb">link</a> |

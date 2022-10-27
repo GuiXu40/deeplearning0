@@ -13,4 +13,4 @@
 
 |paper-title|note-link|
 |---|:---:|
-|<a href="http://arxiv.org/abs/2003.08386">YeYuan-2020-DiversifyingLatentFlowsForDiverseHumanMotionPrediction-ECCV</a>| <a href="./Basic_code/Dlow源码分析/001_数据预处理代码理解.ipynb">link</a>|
+|<a href="http://arxiv.org/abs/2003.08386">YeYuan-2020-DiversifyingLatentFlowsForDiverseHumanMotionPrediction-ECCV</a>| <a href="./Basic_code/Dlow源码分析/README.md">link</a>|

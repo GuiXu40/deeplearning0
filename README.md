@@ -8,6 +8,8 @@
 | Generate images by GAN | GAM模型生成图片 | <a href="./Basic_code/Basic_GAN.ipynb">link</a> |
 |5种Normalization | 手写Normalization和对比pytorch API | <a href="./Basic_code/5种normlization.ipynb">link</a>|
 |单向RNN和双向RNN|pytorch RNN API与手写推理过程对比|<a href="./Basic_code/单向RNN和双向RNN实现.ipynb">link</a>|
+|手写Transformer主要函数|Transformer的部分函数|<a href="./Basic_code/Transformer手写实现.ipynb">link</a>|
+
 
 + paper-code-study
 

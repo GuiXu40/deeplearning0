@@ -16,8 +16,8 @@
 
 | 标题   |      说明      |  链接 |
 |----------|:-------------:|------:|
-|DDIM|DDIM的相关代码实现，用于实现手写数字识别| <a href="./DDIM and Conditional_diffusion_MNIST/README.md">README.md</a>|
-|Conditional DDPM| Classifier-Free Diffusion Guidance，用于实现手写数字识别| <a href="./DDIM and Conditional_diffusion_MNIST/README.md">README.md</a>|
+|DDIM|DDIM的相关代码实现，用于实现手写数字识别| <a href="./DDIM and Conditional_diffusion_MNIST">README.md</a>|
+|Conditional DDPM| Classifier-Free Diffusion Guidance，用于实现手写数字识别| <a href="./DDIM and Conditional_diffusion_MNIST">README.md</a>|
 
 + paper-code-study
 

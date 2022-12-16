@@ -12,6 +12,12 @@
 ||Transformer 全部实现|<a href="./Basic_code/Transformer总实现.py">link</a>|
 |ViT|Vision Transformer简易实现|<a href="./Basic_code/Vision_Transformer.ipynb">link</a>|
 
++ DiffusionModel
+
+| 标题   |      说明      |  链接 |
+|----------|:-------------:|------:|
+|DDIM|DDIM的相关代码实现，用于实现手写数字识别| <a href="./DDIM and Conditional_diffusion_MNIST/README.md">README.md</a>|
+|Conditional DDPM| Classifier-Free Diffusion Guidance，用于实现手写数字识别| <a href="./DDIM and Conditional_diffusion_MNIST/README.md">README.md</a>|
 
 + paper-code-study
 
